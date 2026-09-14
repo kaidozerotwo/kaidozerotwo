@@ -70,17 +70,6 @@ All my personal projects *are* and *will be* **free**. 🐧
 
 ---
 
-## 📊 By the numbers
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=kaidozerotwo&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true)
-![Streak](https://streak-stats.demolab.com?user=kaidozerotwo&theme=chartreuse-dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaidozerotwo&layout=compact&theme=chartreuse-dark&hide_border=true&langs_count=8)
-
-</div>
-
 <div align="center">
 
 ### 🐧 Free software, all the way down.

@@ -54,22 +54,6 @@ All my personal projects *are* and *will be* **free**. 🐧
 
 ---
 
-## 🚀 Pinned-worthy
-
-| Project | What it is | Stack |
-|---|---|---|
-| 🏗️ **Horizon House Plugin** | A C# plugin that automates real drafting work inside AutoCAD. | `C#` · `.NET 8` · `ObjectARX` |
-| 🎬 **ig-reels-bot** | Fully automated Instagram Reels pipeline — pulls clips, processes, posts on a timer. Runs 24/7. | `Python` · `systemd` · `Meta API` |
-| 🪟 **Hyprlain (Fedora)** | My Fedora port of a hand-tuned Hyprland desktop. | `Bash` · `Hyprland` · `Wayland` |
-| 🪙 **mytoken** | A fixed-supply, no-owner, no-mint ERC-20, built for a real launch. | `Solidity` · `Foundry` · `OpenZeppelin` |
-| 🌡️ **ESP32 Weather Station** | Learning embedded from scratch — an OLED weather display on bare ESP32. | `C++` · `ESP32` · `Electronics` |
-| 🎸 **REAPER Guitar Rig** | Open guitar tones built as Guitarix LV2 chains for Linux audio. | `Linux Audio` · `LV2` |
-| 🧱 **RLCraft Server** | A modded Minecraft server friends join over a private mesh — no port-forwarding. | `Forge` · `Java` · `Tailscale` |
-
-> 🔒 I also do **authorized security research / bug-bounty** work — those write-ups stay private per program rules.
-
----
-
 <div align="center">
 
 ### 🐧 Free software, all the way down.

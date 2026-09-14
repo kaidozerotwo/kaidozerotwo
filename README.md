@@ -17,7 +17,7 @@
 # Welcome!
 
 Currently learning *anything* interesting that comes along.
-All my personal projects *are* and *will be* **free** (as in *freedom*). 🐧
+All my personal projects *are* and *will be* **free**. 🐧
 
 <br/>
 
